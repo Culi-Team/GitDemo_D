@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Xin chao, day la Hoang Anh");
+Console.WriteLine("Xin chao, day la Dat");
